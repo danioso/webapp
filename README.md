@@ -19,7 +19,7 @@ export WEBAPP_PNG_COMPRESSION_SERVICE_KEY="API_KEY"
 
 ## Tasks
 
-#### Runing wath task and start server on localhost:9000 
+#### Runing watch task and start server on localhost:9000 
 ```shell
 gulp watch
 ```
