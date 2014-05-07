@@ -6,6 +6,8 @@ gulp config with CoffeScript, jade, stylus, browserify and tinypng
 
 ## Install
 
+Unless previously installed you'll need Cairo. For system-specific installation view the [node-canvas wiki](https://github.com/LearnBoost/node-canvas/wiki/_pages).
+
 ```shell
 bower install
 npm install
